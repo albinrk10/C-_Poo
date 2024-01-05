@@ -1,0 +1,14 @@
+D:\Curso de C#\Poo\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.exe
+D:\Curso de C#\Poo\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.deps.json
+D:\Curso de C#\Poo\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.runtimeconfig.json
+D:\Curso de C#\Poo\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.dll
+D:\Curso de C#\Poo\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.pdb
+D:\Curso de C#\Poo\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Poo\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.AssemblyInfoInputs.cache
+D:\Curso de C#\Poo\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.AssemblyInfo.cs
+D:\Curso de C#\Poo\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Poo\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.dll
+D:\Curso de C#\Poo\SuperHeroesApp\obj\Debug\net7.0\refint\SuperHeroesApp.dll
+D:\Curso de C#\Poo\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.pdb
+D:\Curso de C#\Poo\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.genruntimeconfig.cache
+D:\Curso de C#\Poo\SuperHeroesApp\obj\Debug\net7.0\ref\SuperHeroesApp.dll

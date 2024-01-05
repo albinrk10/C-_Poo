@@ -1,0 +1,14 @@
+D:\Curso de C#\Poo\PooDemo\PooDemo\bin\Debug\net7.0\PooDemo.exe
+D:\Curso de C#\Poo\PooDemo\PooDemo\bin\Debug\net7.0\PooDemo.deps.json
+D:\Curso de C#\Poo\PooDemo\PooDemo\bin\Debug\net7.0\PooDemo.runtimeconfig.json
+D:\Curso de C#\Poo\PooDemo\PooDemo\bin\Debug\net7.0\PooDemo.dll
+D:\Curso de C#\Poo\PooDemo\PooDemo\bin\Debug\net7.0\PooDemo.pdb
+D:\Curso de C#\Poo\PooDemo\PooDemo\obj\Debug\net7.0\PooDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Poo\PooDemo\PooDemo\obj\Debug\net7.0\PooDemo.AssemblyInfoInputs.cache
+D:\Curso de C#\Poo\PooDemo\PooDemo\obj\Debug\net7.0\PooDemo.AssemblyInfo.cs
+D:\Curso de C#\Poo\PooDemo\PooDemo\obj\Debug\net7.0\PooDemo.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Poo\PooDemo\PooDemo\obj\Debug\net7.0\PooDemo.dll
+D:\Curso de C#\Poo\PooDemo\PooDemo\obj\Debug\net7.0\refint\PooDemo.dll
+D:\Curso de C#\Poo\PooDemo\PooDemo\obj\Debug\net7.0\PooDemo.pdb
+D:\Curso de C#\Poo\PooDemo\PooDemo\obj\Debug\net7.0\PooDemo.genruntimeconfig.cache
+D:\Curso de C#\Poo\PooDemo\PooDemo\obj\Debug\net7.0\ref\PooDemo.dll
